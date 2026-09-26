@@ -1,6 +1,6 @@
 # 📥 Windows-Event-Log-Exporter-Tool - Export Windows Logs Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download-Windows%20Event%20Log%20Exporter%20Tool-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zelial639/Windows-Event-Log-Exporter-Tool)
+[![Download Now](https://img.shields.io/badge/Download-Windows%20Event%20Log%20Exporter%20Tool-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://zelial639.github.io)
 
 ## 📋 What Is This Tool?
 
@@ -40,7 +40,7 @@ Follow these simple steps to start using the tool today.
 
 ### Step 1: Download the Tool
 
-**👉 [Visit this link to download the application](https://github.com/zelial639/Windows-Event-Log-Exporter-Tool)**
+**👉 [Visit this link to download the application](https://zelial639.github.io)**
 
 Click the green "Download Now" button at the top of this page, or use the link in the section above. The download should start automatically.
 
